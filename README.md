@@ -10,9 +10,9 @@ was based on Accord.NET, a Machine Learning Framework written completely in Csha
 production-grade application development.
 
 ###### App.Config
-Basic Configurations of IO operations
-Text Representations(TFIDF-W2V)
-SVM model setup
+* Basic Configurations of IO operations
+* Text Representations(TFIDF-W2V)
+* SVM model setup
 
 ###### Forms of Text Representations
 * TFIDF - Sparse
